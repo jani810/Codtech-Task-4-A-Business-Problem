@@ -71,3 +71,5 @@ Task-4-Optimization/
 📌 Conclusion
 This task demonstrates how linear programming can be used to solve real-world decision-making problems efficiently. It showcases the power of mathematical modeling in business optimization, an essential skill for data science professionals.
 #OUTPUT
+<img width="1039" height="846" alt="Image" src="https://github.com/user-attachments/assets/d1ace54a-fe54-48fd-9929-14d74a5a4e2d" />
+<img width="1039" height="755" alt="Image" src="https://github.com/user-attachments/assets/c04a4bec-b537-4791-8d45-06e7601b0fb7" />
